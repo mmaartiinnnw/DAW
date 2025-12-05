@@ -1,1 +1,6 @@
-#Añadir las directivas de Apache
+#Añadir las directivas HTTP
+
+GET
+PUT
+POST
+
